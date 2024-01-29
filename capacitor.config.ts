@@ -6,6 +6,14 @@ const config: CapacitorConfig = {
   webDir: 'dist',
   server: {
     androidScheme: 'https'
+  },
+  plugins: {
+    LiveUpdates: {
+      appId: '768da294',
+      channel: 'Production',
+      autoUpdateMethod: 'background',
+      maxVersions: 2
+    }
   }
 };
 
