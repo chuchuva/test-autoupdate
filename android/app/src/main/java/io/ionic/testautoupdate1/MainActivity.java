@@ -1,4 +1,4 @@
-package io.ionic.starter;
+package io.ionic.testautoupdate1;
 
 import com.getcapacitor.BridgeActivity;
 
