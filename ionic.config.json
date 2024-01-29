@@ -1,0 +1,7 @@
+{
+  "name": "Test Autoupdate",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "vue-vite"
+}
